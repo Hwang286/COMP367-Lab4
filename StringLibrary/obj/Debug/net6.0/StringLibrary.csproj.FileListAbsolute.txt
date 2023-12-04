@@ -1,0 +1,12 @@
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\refint\StringLibrary.dll
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb
+D:\CentennialCollege\Fall2023\COMP367001\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
